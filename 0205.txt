@@ -1,0 +1,4 @@
+for 에서 쓰는 무한루프
+system("pause")
+srand
+erase
